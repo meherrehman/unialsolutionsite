@@ -1,0 +1,32 @@
+.navbardropDownPills {
+    background-color: white;
+    color: white;
+    justify-content: start;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+ul li .nav-link {
+    color: black !important;
+    text-align: start;
+    font-weight: bold;
+    background-color: transparent !important;
+}
+
+ul li .nav-link:hover {
+    color: #7f0000 !important;
+}
+
+.dropDownTechName {
+    margin: 0px 10px;
+    font-size: 0.9em;
+}
+
+.dropDownTechName:hover {
+    color: #7f0000;
+    cursor: pointer;
+}
+
+.dropdown-Headings {
+    font-weight: bold;
+}

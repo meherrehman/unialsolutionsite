@@ -1,0 +1,32 @@
+.col-xl-12{
+    text-align: center;
+    margin-top: 100px;
+}
+.col-xl-12 h1{
+    text-align: center;
+    font-size: 30px;
+
+    font-weight: bolder;
+    padding-top:20px ;
+    padding-bottom: 40px;
+  background: linear-gradient(to right,rgb(24, 2, 2), #7F0000);
+    background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.col-xl-12 h6{
+    font-weight: bolder;
+}
+.homebannerbtncon a {
+    background:#7F0000;;
+    border: 2px solid #7F0000;
+    color: #fff;
+    border-radius: 4px;
+    padding: 20px;
+    font-family: Inter SemiBold;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.homebannercontent{
+    margin-bottom: 5%;
+}
